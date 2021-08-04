@@ -6,7 +6,7 @@ I enjoy working with cross-disciplinary teams to create and deliver innovative s
 
 By working with world-leading production teams, I've unite my experiences in development to help my partners to avoid common mistakes, save time and achieve goals. 🎯
 
-I'm focused on diving into your problems and goals to find the most optimal way of execution. My philosophy is based on the "Why? 🤔" question which prevents you from getting a monkey job and unnecessary spendings.
+I'm focused on diving into your problems and goals to find the most optimal way of execution. My philosophy is based on the `Why? 🤔` question which prevents you from getting a monkey job and unnecessary spendings.
 
 I can support you at all stages and levels of your project, from planning to operation and development to direction.
 
@@ -49,3 +49,14 @@ I can support you at all stages and levels of your project, from planning to ope
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Partnership-Shopify-informational?style=flat&logo=shopify&logoColor=white&color=2bbc8a)
+
+## Guides
+
+### The JavaScript Coding Guide
+https://guides.neaf.co/javascript-coding-guide/
+
+### Functional Programming In JavaScript
+https://guides.neaf.co/functional-programming-in-javascript/
+
+### The React Modular Design System
+https://guides.neaf.co/react-modular-design-system/
