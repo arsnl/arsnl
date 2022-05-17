@@ -1,14 +1,10 @@
-## Howdy there! <img src="https://raw.githubusercontent.com/arsnl/arsnl/main/hand-wave.gif" width="30px">
+## Hey, I'm Mark. <img src="https://raw.githubusercontent.com/arsnl/arsnl/main/hand-wave.gif" width="30px">
 
-I'm Marc-André, but you can call me Mark. I'm a passionate high-performance full stack Web developer, a tech lead, a best practices advocate, a Web architect, a wannabe (not so good 😅) designer, a full-time swiss-army knife... and a JUST A BIT sarcastic guy.
+I'm a web developer. My passion for making small business life easier led me into this industry in 2009 where I've been focusing on full-stack development ever since!
 
-I enjoy working with cross-disciplinary teams to create and deliver innovative solutions. I believe the best products are the result of a great collaboration between creation and development members as both are equally important. 👯‍♀️
+In 2020, I've founded Neaf in order to build things that I care about with people who share my values. I love working with cross-disciplinary teams and passionate people to create innovative solutions and products that I believe in.
 
-By working with world-leading production teams, I've unite my experiences in development to help my partners to avoid common mistakes, save time and achieve goals. 🎯
-
-I'm focused on diving into your problems and goals to find the most optimal way of execution. My philosophy is based on the `Why? 🤔` question which prevents you from getting a monkey job and unnecessary spendings.
-
-I can support you at all stages and levels of your project, from planning to operation and development to direction.
+I'm also a bit of a design nerd and love beautiful web design, photography, and just generally being around creative people. In my spare time (which isn't very often), I like to work on personal projects that allow me to explore new technologies and techniques.
 
 ## Technologies & Tools
 
